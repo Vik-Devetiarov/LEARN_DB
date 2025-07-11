@@ -1,13 +1,18 @@
-# LEARN_BD
+# LEARN_DB
 
-**_«Программирование — это не про гениальность, а про настойчивость. Один работающий while loop стоит сотни гениальных идей в голове»_** (с) Анонимный Senior Developer
+**_"Programming isn't about genius, it's about persistence. One working while loop is worth a hundred genius ideas in your head"_**
+
+(c) Anonymous Senior Developer
 
 ## 2025-06-27:
-- Начинаю свой путь в программировании. До этого было много попыток что-то учить, читать, смотреть. Но всё не получалось. В этот раз всё сделаем по уму;
-- Составил план обучения;
-- Подобрал книги.
+- Starting my programming journey;
+- Created a learning plan;
+- Selected books.
 
 ## 2025-06-30:
-- Составил сроки для плана обучения на ближайшие 3 месяца — до конца сентября;
-- В данный момент читаю «Code: The Hidden Language of Computer Hardware and Software». Прочитано: 235 страниц — 52%;
-- Выписал себе отдельно всё, что надо будет разобрать повторно после прочтения книги.
+- Set deadlines for the learning plan for the next 3 months - until the end of September;
+- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 235 - 52%;
+- Listed out everything separately that I will need to review again after finishing the book.
+
+## 2025-07-11:
+- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 308 - 69%;
