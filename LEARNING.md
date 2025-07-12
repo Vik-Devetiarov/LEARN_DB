@@ -15,4 +15,9 @@
 - Listed out everything separately that I will need to review again after finishing the book.
 
 ## 2025-07-11:
-- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 308 - 69%;
+- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 308 - 69%.
+
+## 2025-07-12:
+- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 345 - 77%;
+- Installed Racket to do SICP in Scheme;
+- Found MIT lecture video recordings for SICP.
