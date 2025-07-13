@@ -21,3 +21,6 @@
 - Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 345 - 77%;
 - Installed Racket to do SICP in Scheme;
 - Found MIT lecture video recordings for SICP.
+
+## 2025-07-13:
+- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 387 - 86%.
