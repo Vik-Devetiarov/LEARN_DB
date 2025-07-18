@@ -66,6 +66,7 @@ size
 
 ```Scheme
 (define radius 10)
+
 (* pi (* radius radius))
 
 314.159
