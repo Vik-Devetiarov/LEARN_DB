@@ -1,10 +1,9 @@
 <h1 align="center">Library</h1>
 
 "Code: The Hidden Language of Computer Hardware and Software" - ✅
-<hr>
+<br>
 "Structure and Interpretation of Computer Programs"
-<hr>
+<br>
 "Essentials of Programming Language"
-<hr>
+<br>
 "Types and Programming Languages"
-<hr>
