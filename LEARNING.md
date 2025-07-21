@@ -30,7 +30,7 @@
 
 - Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 387 - 86%.
 
-## 2025-07-25
+## 2025-07-21
 
 - Finished reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 445 - 100%;
 - Started reading SICP. Pages read: 40 - 7%;
