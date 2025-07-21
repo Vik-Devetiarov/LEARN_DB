@@ -1,4 +1,4 @@
-# LEARN_DB
+# LEARN_DB_DIARY
 
 **_"Programming isn't about genius, it's about persistence. One working while loop is worth a hundred genius ideas in your head"_**
 
