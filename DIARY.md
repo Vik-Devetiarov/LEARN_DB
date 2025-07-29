@@ -1,37 +1,43 @@
 # LEARN_DB_DIARY
 
-**_"Programming isn't about genius, it's about persistence. One working while loop is worth a hundred genius ideas in your head"_**
+**_«Программирование — не про гениальность, а про настойчивость. Один рабочий while loop стоит сотни гениальных идей в голове»_**
 
-(c) Anonymous Senior Developer
+(с) Анонимный Senior Developer
 
 ## 2025-06-27
 
-- Starting my programming journey;
-- Created a learning plan;
-- Selected books.
+- Начал своё путешествие в программирование;
+- Составил учебный план;
+- Подобрал книги.
 
 ## 2025-06-30
 
-- Set deadlines for the learning plan for the next 3 months - until the end of September;
-- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 235 - 52%;
-- Listed out everything separately that I will need to review again after finishing the book.
+- Установил дедлайны учебного плана на 3 месяца — до конца сентября;
+- Читаю «Code: The Hidden Language of Computer Hardware and Software». Прочитано: 235 стр. (52%);
+- Выписал всё, что нужно будет пересмотреть после книги.
 
 ## 2025-07-11
 
-- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 308 - 69%.
+- Читаю «Code: The Hidden Language of Computer Hardware and Software». Прочитано: 308 стр. (69%).
 
 ## 2025-07-12
 
-- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 345 - 77%;
-- Installed Racket to do SICP in Scheme;
-- Found MIT lecture video recordings for SICP.
+- Читаю «Code: The Hidden Language of Computer Hardware and Software». Прочитано: 345 стр. (77%);
+- Установил Racket для изучения SICP на Scheme;
+- Нашёл видеозаписи лекций MIT по SICP.
 
 ## 2025-07-13
 
-- Currently reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 387 - 86%.
+- Читаю «Code: The Hidden Language of Computer Hardware and Software». Прочитано: 387 стр. (86%).
 
 ## 2025-07-21
 
-- Finished reading "Code: The Hidden Language of Computer Hardware and Software". Pages read: 445 - 100%;
-- Started reading SICP. Pages read: 40 - 7%;
-- Done the first section of exercises (1.1-1.5).
+- Завершил чтение «Code: The Hidden Language of Computer Hardware and Software». Прочитано: 445 стр. (100%);
+- Начал читать SICP. Прочитано: 40 стр. (7%);
+- Прорешал первый блок упражнений (1.1–1.5).
+
+## 2025-07-29
+
+- Застрял на втором блоке упражнений (1.6-1.8). Но думаю, что завтра уже все решу. Очень трудно датеся понимание функций, вернее последовательности действий и как это структурировать в моей голове;
+- Смотрю первую лекцию по SICP в MIT;
+- Структурировал все прошлые упражнения в один вид и занес все, что переписал с книги в свою лекционную тетрадь, на гитхаб.
