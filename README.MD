@@ -4,7 +4,7 @@
 <br>
 ☐ "Structure and Interpretation of Computer Programs" - 40/557 - 7%
 <br>
-⮽ Серия лекций "SICP" от MIT - 0/20 - 0%
+☐ Серия лекций "SICP" от MIT - 0/20 - 0%
 <br>
 ⮽ Серия лекций "CS50x 2025" от Harvard University - 0/13 - 0%
 <br>
