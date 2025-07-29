@@ -2,7 +2,7 @@
 
 ☑ "Code: The Hidden Language of Computer Hardware and Software" - 445/445 - 100%
 <br>
-☐ "Structure and Interpretation of Computer Programs" - 40/557 - 7%
+☐ "Structure and Interpretation of Computer Programs" - 43/557 - 8%
 <br>
 ☐ Серия лекций "SICP" от MIT - 0/20 - 0%
 <br>
