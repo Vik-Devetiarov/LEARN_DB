@@ -1,4 +1,4 @@
-<h1 align="center">Library</h1>
+<h1 align="center"><План обучения</h1>
 
 "Code: The Hidden Language of Computer Hardware and Software" - ✅
 <br>
