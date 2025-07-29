@@ -15,3 +15,5 @@
 ☐ "Types and Programming Languages"
 <br>
 ☐ "Introduction to Algorithms, CLRS"
+<br>
+☐ "The Pragmatic Programmer"
