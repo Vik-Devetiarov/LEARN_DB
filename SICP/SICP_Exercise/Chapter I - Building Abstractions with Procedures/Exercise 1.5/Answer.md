@@ -1,4 +1,4 @@
-```
+```Scheme
 (define (p) (p))
 
 (define (test x y)

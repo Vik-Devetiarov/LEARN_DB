@@ -1,4 +1,4 @@
-```
+```Scheme
 (define (new-if predicate then-clause else-clause)
   (cond (predicate then-clause)
         (else else-clause)))
@@ -10,7 +10,7 @@
 
 1. Особая форма `if` выполняется в порядке вычисления только одной ветки:
 
-```
+```Scheme
     (if <условие>
         <выражение-если-истина>
         <выражение-если-ложь>)
@@ -18,7 +18,7 @@
 
 А процедура `new-if` вычисляет все аргументы:
 
-```
+```Scheme
     (new if (вычислено-условие)
             (вычислено-then-clause)
             (вычислено-else-clause))
