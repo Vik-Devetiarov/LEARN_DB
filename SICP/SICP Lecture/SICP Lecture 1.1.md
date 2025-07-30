@@ -1,4 +1,4 @@
-# SICP_LECTURE 1.1
+# SICP LECTURE 1.1
 
 ## Введение
 
