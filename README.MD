@@ -2,7 +2,7 @@
 
 Тут по мере необходимости и пути в программировании буду составлять план обучения. Отмечать, что я буду читать или смотреть буду тут же.
 
-## Library
+## Книги
 
 - [x] "Code: The Hidden Language of Computer Hardware and Software" - 445/445 - 100%
 - [ ] "Structure and Interpretation of Computer Programs" - 48/557 - 9%
@@ -12,7 +12,7 @@
 - [ ] "Introduction to Algorithms, CLRS"
 - [ ] "The Pragmatic Programmer"
 
-## Lection
+## Лекции
 
 - [ ] Серия лекций "SICP" от MIT - 0/20 - 0%
 - [ ] Серия лекций "CS50x 2025" от Harvard University - 0/13 - 0%
