@@ -1,6 +1,6 @@
 # План обучения
 
-**<h3 align=center>UNDER CONSTRUCTION</h3>**
+**<h3 align=center>!UNDER CONSTRUCTION!</h3>**
 
 ## Книги
 
