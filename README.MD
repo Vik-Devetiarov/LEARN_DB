@@ -1,10 +1,11 @@
 # План обучения
 
-Тут по мере необходимости и пути в программировании буду составлять план обучения. Отмечать, что я буду читать или смотреть буду тут же.
+"Under construction"
 
 ## Книги
 
 - [x] "Code: The Hidden Language of Computer Hardware and Software" - 445/445 - 100%
+- [ ] "The Little Schemer" - 0/226 - 0%
 - [ ] "Structure and Interpretation of Computer Programs" - 48/557 - 9%
 - [ ] "Essentials of Programming Language"
 - [ ] "Computer Science Distilled: Learn the Art of Solving Comuptational Problems"
