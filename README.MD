@@ -5,7 +5,7 @@
 ## Книги
 
 - [x] "Code: The Hidden Language of Computer Hardware and Software" - 445/445 - 100%
-- [ ] "The Little Schemer" - 0/226 - 0%
+- [ ] "The Little Schemer" - 19/226 - 8%
 - [ ] "Structure and Interpretation of Computer Programs" - 48/557 - 9%
 - [ ] "Essentials of Programming Language"
 - [ ] "Computer Science Distilled: Learn the Art of Solving Comuptational Problems"

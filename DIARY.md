@@ -50,4 +50,5 @@
 - Читаю "Structure and Interpretation of Computer Programs" - 48 стр. (9%);
 - И за сегодня надо полностью посмотреть первую лекцию по SICP от MIT;
 - По чуть-чуть учимся в синтаксис Markdown;
-- Очень трудно мне дается SICP. Именно сами функции. Решил перед ним пройти книгу "The Little Schemer".
+- Очень трудно мне дается SICP. Именно сами функции. Решил перед SICP пройти книгу "The Little Schemer";
+- Читаю "The Little Schemer" - 19 стр. (8%).
