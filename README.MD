@@ -7,11 +7,11 @@
 - [x] "Code: The Hidden Language of Computer Hardware and Software" - 445/445 - 100% - `DONE`
 - [ ] "The Little Schemer" - 21/226 - 9% - `IN PROCESS`
 - [ ] "Structure and Interpretation of Computer Programs" - 48/557 - 9% - `PAUSED`
-- [ ] "Essentials of Programming Language"
-- [ ] "Computer Science Distilled: Learn the Art of Solving Comuptational Problems"
-- [ ] "Types and Programming Languages"
-- [ ] "Introduction to Algorithms, CLRS"
-- [ ] "The Pragmatic Programmer"
+- [ ] "Essentials of Programming Language" - 0/392 - 0%
+- [ ] "Computer Science Distilled: Learn the Art of Solving Comuptational Problems" - 0/222 - 0%
+- [ ] "Types and Programming Languages" - 0/518 - 0%
+- [ ] "Introduction to Algorithms, CLRS" - 0/1281 - 0%
+- [ ] "The Pragmatic Programmer" - 0/346 - 0%
 
 ## Лекции
 
