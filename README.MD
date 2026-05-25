@@ -29,19 +29,19 @@ flowchart TD
 
 ## Прогресс
 
-| Материал | Страницы / части | Прогресс | Статус |
-|---|---:|---:|---|
-| Code: The Hidden Language of Computer Hardware and Software | 0 / 445 | 0% | planned |
-| The Little Schemer | 0 / 226 | 0% | planned |
-| Computer Science Distilled | 0 / 222 | 0% | planned |
-| The Pragmatic Programmer | 0 / 346 | 0% | planned |
-| Structure and Interpretation of Computer Programs | 0 / 557 | 0% | planned |
-| How to Design Programs | 0 / - | 0% | planned |
-| The C Programming Language | 0 / - | 0% | planned |
-| Computer Systems: A Programmer's Perspective | 0 / - | 0% | planned |
-| Crafting Interpreters | 0 / - | 0% | planned |
-| Essentials of Programming Languages | 0 / 392 | 0% | planned |
-| Types and Programming Languages | 0 / 518 | 0% | planned |
-| Grokking Algorithms | 0 / - | 0% | planned |
-| Introduction to Algorithms | 0 / 1281 | 0% | planned |
-| Designing Data-Intensive Applications | 0 / - | 0% | planned |
+| Материал | Прогресс |
+|---|---|
+| Code: The Hidden Language of Computer Hardware and Software | 0% |
+| The Little Schemer | 0% |
+| Computer Science Distilled | 0% |
+| The Pragmatic Programmer | 0% |
+| Structure and Interpretation of Computer Programs | 0% |
+| How to Design Programs | 0% |
+| The C Programming Language | 0% |
+| Computer Systems: A Programmer's Perspective | 0% |
+| Crafting Interpreters | 0% |
+| Essentials of Programming Languages | 0% |
+| Types and Programming Languages | 0% |
+| Grokking Algorithms | 0% |
+| Introduction to Algorithms | 0% |
+| Designing Data-Intensive Applications | 0% |
