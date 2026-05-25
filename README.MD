@@ -30,7 +30,7 @@ flowchart TD
 ## Прогресс
 
 | Материал | Прогресс |
-|---|---|
+|---|-:-|
 | Code: The Hidden Language of Computer Hardware and Software | 0% |
 | The Little Schemer | 0% |
 | Computer Science Distilled | 0% |
