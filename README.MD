@@ -29,7 +29,6 @@ flowchart TD
 
 ## Прогресс
 
-<align=center>
 | Материал | Прогресс |
 |---|---|
 | Code: The Hidden Language of Computer Hardware and Software | 0% |
@@ -46,4 +45,3 @@ flowchart TD
 | Grokking Algorithms | 0% |
 | Introduction to Algorithms | 0% |
 | Designing Data-Intensive Applications | 0% |
-</>
