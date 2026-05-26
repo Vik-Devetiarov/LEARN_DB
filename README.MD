@@ -29,10 +29,8 @@ flowchart TD
 
 ## Прогресс
 
-<p align="center">
-
 | Книга | Прогресс |
-|---|:---:|
+|-----|:---:|
 | Code: The Hidden Language of Computer Hardware and Software | 0% |
 | The Little Schemer | 0% |
 | Computer Science Distilled | 0% |
@@ -47,5 +45,3 @@ flowchart TD
 | Grokking Algorithms | 0% |
 | Introduction to Algorithms | 0% |
 | Designing Data-Intensive Applications | 0% |
-
-</p>
