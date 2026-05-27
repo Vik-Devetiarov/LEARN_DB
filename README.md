@@ -8,8 +8,6 @@
 - **проекты** - чем подтверждать понимание;
 - **навыки** - какие инженерные привычки и умения должны вырасти.
 
-Прогресс сброшен. Старые материалы сохранены в [`archive/legacy`](archive/legacy).
-
 ## Визуальная карта
 
 ### Книги
@@ -35,7 +33,7 @@
 ## Основной порядок
 
 ```text
-Code
+-> Code: The Hidden Language of Computer Hardware and Software
 -> The Little Schemer
 -> Computer Science Distilled + The Pragmatic Programmer
 -> SICP + How to Design Programs
