@@ -2,6 +2,7 @@
 
 **<h3 align=center>! UNDER CONSTRUCTION !</h3>**
 
+<p align=center>
 | Книга | Прогресс |
 |-----|:---:|
 | Code: The Hidden Language of Computer Hardware and Software | 0% |
@@ -18,6 +19,7 @@
 | Grokking Algorithms | 0% |
 | Introduction to Algorithms | 0% |
 | Designing Data-Intensive Applications | 0% |
+</p>
 
 ## Roadmap
 
