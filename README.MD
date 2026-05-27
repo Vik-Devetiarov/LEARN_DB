@@ -2,6 +2,27 @@
 
 **<h3 align=center>! UNDER CONSTRUCTION !</h3>**
 
+## Прогресс
+
+| Книга | Прогресс |
+|-----|:---:|
+| Code: The Hidden Language of Computer Hardware and Software | 0% |
+| The Little Schemer | 0% |
+| Computer Science Distilled | 0% |
+| The Pragmatic Programmer | 0% |
+| Structure and Interpretation of Computer Programs | 0% |
+| How to Design Programs | 0% |
+| The C Programming Language | 0% |
+| Computer Systems: A Programmer's Perspective | 0% |
+| Crafting Interpreters | 0% |
+| Essentials of Programming Languages | 0% |
+| Types and Programming Languages | 0% |
+| Grokking Algorithms | 0% |
+| Introduction to Algorithms | 0% |
+| Designing Data-Intensive Applications | 0% |
+
+## Roadmap
+
 ```mermaid
 flowchart TD
     A["0. Code<br/>как устроен компьютер"] --> B["1. The Little Schemer<br/>рекурсия и мышление"]
@@ -26,22 +47,3 @@ flowchart TD
     class A,B,C,D,E,F,G,H,I,J,K,L,M,N planned;
     class P practice;
 ```
-
-## Прогресс
-
-| Книга | Прогресс |
-|-----|:---:|
-| Code: The Hidden Language of Computer Hardware and Software | 0% |
-| The Little Schemer | 0% |
-| Computer Science Distilled | 0% |
-| The Pragmatic Programmer | 0% |
-| Structure and Interpretation of Computer Programs | 0% |
-| How to Design Programs | 0% |
-| The C Programming Language | 0% |
-| Computer Systems: A Programmer's Perspective | 0% |
-| Crafting Interpreters | 0% |
-| Essentials of Programming Languages | 0% |
-| Types and Programming Languages | 0% |
-| Grokking Algorithms | 0% |
-| Introduction to Algorithms | 0% |
-| Designing Data-Intensive Applications | 0% |
