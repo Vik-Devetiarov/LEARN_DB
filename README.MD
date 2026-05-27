@@ -2,8 +2,6 @@
 
 **<h3 align=center>! UNDER CONSTRUCTION !</h3>**
 
-## Прогресс
-
 | Книга | Прогресс |
 |-----|:---:|
 | Code: The Hidden Language of Computer Hardware and Software | 0% |
